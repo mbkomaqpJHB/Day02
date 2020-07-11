@@ -6,11 +6,12 @@
 /*   By: mbkomaqp <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/10 11:57:21 by mbkomaqp          #+#    #+#             */
-/*   Updated: 2020/07/10 12:11:56 by mbkomaqp         ###   ########.fr       */
+/*   Updated: 2020/07/11 16:03:00 by mbkomaqp         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
-void	ft_putchar(char c)
+
+void	ft_putchar(char c);
 
 void	ft_is_negative(int n)
 {
